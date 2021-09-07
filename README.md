@@ -6,8 +6,7 @@
 
 
 
-- **I'm a high school student & a noob**
-- **I like to kang everything**
+- **I'm a student & a noob**
 - **Soon will be contributing to open source communities**
 
 ### Find me on
